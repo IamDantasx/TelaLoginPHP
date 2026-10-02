@@ -1,0 +1,5 @@
+{
+    "require": {
+        "cakephp/migrations": "~5.2"
+    }
+}
